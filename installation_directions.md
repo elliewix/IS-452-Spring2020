@@ -25,9 +25,7 @@ Check the Installation Problems discussion board for similar problems.  Post abo
 
 From here:  [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 
-![](installation_halle_notes/Mac/Mac_Anaconda.png)
-
-Download the Graphical Installer for Python 3.7 for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.7. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.  
+Download the Graphical Installer for **Python 3.7** for your operating system.  The exact text on this screen may vary depending on your operating system, but you want the big green button for Python version 3.7. This is a pretty large download, so you’ll need to give it some time.  Installing all the normal options is just fine.  
 
 Installing or using Python 3.6 is also fine, if you already have that.
 
@@ -76,7 +74,7 @@ There are three editions of PyCharm.  I recommend starting with the education ed
 
 ### Step 1: Download and install
 
-Available here:  https://www.jetbrains.com/pycharm-edu/download/
+Available here:  https://www.jetbrains.com/education/download/#section=pycharm-edu
 
 Download and install the appropriate version for your operating system.  Just use the newest version available, don’t worry about the numbers.
 
@@ -84,27 +82,34 @@ Download and install the appropriate version for your operating system.  Just us
 
 ![](installation_pics/5-pycharmdl.png)
 
+**Do not move or rename the anaconda folder after installation!!**
+
 ### Step 2:  Open it!
 
 When you open it for the first time it’ll ask you what sort of project you want.  Select Create New Project. (ignore the version number here)
 
 ![](installation_pics/6-makenewproject.png)
 
+There is also a video of this linked in the class moodle.
+
 On the next screen you’ll want change a few things:
 
 1.	Select the Location where you want your project folder to exist on your computer.  I suggest putting it in your Documents folder.
-2.	Change Untitled to IS452.
+2.	Change Untitled to IS452.  Change nothing about the rest of the path!!
 	* You may also change where this folder is saved on your computer, just be sure that it is somewhere you can find so that you can upload files.
-3.	For interpreter, this is where it gets weird.  Click the drop down:
-	* Windows users, the drop down should show something like C:\Anaconda\python.exe.  Which you should select.  
-	* Mac users, you might see several.  You want the one that has anaconda in the file path.  E.g. ~/anaconda/bin/python.  You may not see a number, but you want to choose the one that has Python 3.6.x (where x is whatever number you saw earlier during testing). Do not choose one that states Python 2.6 or 2.7.  you may need to click the … button and manually add where your ~/anaconda/bin/python exists. If you have a brand new installation, you likely have a 2.6, 2.7, and ~/anaconda/bin/python option.  Select the anaconda one.  If you select 2.6 or 2.7 you’ll have to go back and fix it, so this does matter.
+3.	For interpreter, follow the directions carefully.  Click the drop down:
+	* Ensure that Conda is selected. It's the one with the green circle.  You may need to click this on the left or from a drop down.  
+	* Check New Environment. Leave all the names the same.
+	* Ensure that the 3.7 is selected for version.
 4. You should have something that looks like the screenshot below, but yours will look different and that’s fine so long as the versions are correct which we will test in the next step.
 
 ![](installation_halle_notes/Mac/New_Project_After.png)
 
 ### Step 3:  Make a python file and try running it
 
-Don’t worry, you don’t need to know python yet. We’re just testing to see if everything is working.
+Don’t worry, you don’t need to know python yet. We’re just testing to see if everything is working.)
+
+There is also a bug with clicking the Run button. I discuss this in the short updated PyCharm video linked in moodle.
 
 1. Right click on the name of your project on the left.  Select New -> Python file.
 	* ![](installation_halle_notes/Making_py_File2.png)
