@@ -42,8 +42,10 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * Attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
-  * Online sections often have an optional lab hour. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
+  * Online students are expected to attend the live sessions per the same policies as the on campus students. Thus, it is not possible to complete this class asynchronously by watching the recordings.
+  * Online sections often have an optional lab hour after class. Attendance is not required for the online lab hour.  This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
 * The last lab hour for on campus sections is required (this is built into the 3 hour class time window) so the meeting session will match the banner meeting times.
+* Absence policies are in a later attendance section.
 * Make an appointment to meet with me:
   * Appointment booking information is in the class moodle.
 
@@ -296,17 +298,21 @@ Being behind on homework or just needing more time is not a personal crisis.  Th
 
 ## Attendance
 
-Attendance to live class is required.  On campus section students are required to attend on campus sessions and online section students are required to attend the synchronous session.  These are university and college level policies and are not open for negotiation.
+Attendance to live class is required.  On campus section students are required to attend on campus sessions and online section students are required to attend the live online session.  These are university and college level policies and are not open for negotiation. This means than an online student may not participate only by watching the recordings.
 
 Students are allowed to miss two class sessions:  
 
 * one for “life happens” situations (illness, family events, etc.)
 * and one for pre-planned reasons such as conference attendance, job interviews, professional events, etc.  
 
-Students needing to miss more than these two class sessions must contact the instructor to discuss arrangements. 
+Students needing to miss more than these two class sessions must contact the instructor to discuss arrangements. I can be flexible on some attendance needs, but only if you talk to me about what's going on.  Additional absences per DRES (disability) letters are absolutely allowed. Please plan to discuss an absence strategy with me if this applies.
+
+I don't want you to come to class sick or have to juggle a baby and paying attention. I want you to go to the doctor if you need to go. 16 weeks is a long time and transit/daycare/illness provide constant disruption.  Talk to me beforehand and there's a lot I can do.  
 
 * “Life happens” procedures:  students must notify the instructor ASAP before or after missing a class for a “life happens” event.  You are not required to report or provide any personal information to use this day.  Just say that you are using a “life happens” day.  You will still be expected to watch the recorded class and the homework must still be turned in before the solutions are posted to qualify for full credit.  
-* Documented events procedures: students must request approval to miss class before the class is missed. You will still be expected to watch the recorded class and all late homework policy rules still stand. 
+* Documented events procedures: students must request approval to miss class before the class is missed. Send me the info so I have it documented.  You don't need to disclose the event, espcecially if this involves a medical situation. You will still be expected to watch the recorded class and all late homework policy rules still stand. 
+
+Generally speaking, if I am teaching the online and on campus sections, I welcome students to attend whichever works the best for their schedule. I only ask that you let me know so there isn't confusion or surprises.
 
 ## Statement of Inclusion
 
