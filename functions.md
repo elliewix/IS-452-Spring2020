@@ -104,3 +104,35 @@ def title_concat_phrase(original_phrase):
     words = titlephrase.split()
     rejoined = "".join(words)
 ```
+
+If it makes sense for your program, retain any print() statements you'd like within your `#do stuff` phase.  This phase should process any inputs and prepare a single result.
+
+# Step 4: What do you want out of this function?
+
+While not requried, you should consider it a default requirement that you return a value from your function.
+
+* Do you just want to "see" the values from your function?  As in, do you not need to use those values later in the program?
+	* No, I will not need to use the values later in my program or save them after the function executes.
+		* Just use `print()` in your function to see the value.
+	* Yes, I will need to use the values later.
+		* You will need to use `return` (remember this is a keyword and not a function) to pass the value back to the main program.
+	* I don't need either.
+		* Fine, you don't have to use either. 
+
+Example with a return statement:
+
+```python
+def title_concat_phrase(original_phrase):
+    titlephrase = original_phrase.title()
+    words = titlephrase.split()
+    rejoined = "".join(words)
+    return rejoined
+    
+result = title_concat_phrase("we are a snake family")
+print(result)
+```
+Your result will be:
+
+```text
+WeAreASnakeFamily
+```
