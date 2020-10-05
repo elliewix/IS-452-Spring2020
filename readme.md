@@ -10,7 +10,7 @@ These are just about stable at this point.  Lecture content is reviewed during t
 
 ## About
 
-This is the repo for the IS452 class materials that I can make public, but mainly for the notebooks containing my lecure notes and occasionaly slides.  This doesn't contain everything for the class.
+This is the repo for the IS452 class materials that I can make public, but mainly for the notebooks containing my lecture notes and occasionaly slides.  This doesn't contain everything for the class.
 
 ## Schedule
 
